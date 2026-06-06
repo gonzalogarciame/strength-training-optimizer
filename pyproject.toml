@@ -13,17 +13,8 @@ dependencies = [
     "pyomo>=6.7",
 ]
 
-[project.optional-dependencies]
-dev = [
-    "pytest>=8.0",
-]
-
 [project.scripts]
 strength-optimize = "strength_training_optimizer.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
-
-[tool.pytest.ini_options]
-pythonpath = ["src"]
-testpaths = ["tests"]

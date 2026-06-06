@@ -1,0 +1,424 @@
+Exercise Name,Difficulty (1-5),Utility,Main_muscle,Secondary Muscles,Duration
+Neck Flexion,2,0,Neck,,1.5
+Lateral Neck Flexion,2,0,Neck,,1.5
+Wall Front Neck Bridge,3,0,Neck,,1.5
+Wall Side Neck Bridge,3,0,Neck,,1.5
+Neck Extension,2,0,Neck,,1.5
+Seated Neck Extension,2,0,Neck,,1.5
+Seated Neck Extension:  Harness,3,0,Neck,,1.5
+Neck Retraction,1,0,Neck,,1.5
+Wall Rear Neck Bridge,3,0,Neck,Back,1.5
+Lying Neck Retraction,1,0,Neck,,1.5
+Front Raise,2,0,Shoulder,,3.5
+Military Press,4,1,Shoulder,,3.5
+Military Press:  Seated,3,1,Shoulder,,3.5
+Front Raise:  Alternating,2,0,Shoulder,,3.5
+Front Raise:  One Arm,2,0,Shoulder,,3.5
+Shoulder Press,3,0,Shoulder,,3.5
+Shoulder Press:  Seated,3,0,Shoulder,,3.5
+Arnold Press,4,0,Shoulder,,3.5
+Shoulder Press,3,1,Shoulder,,3.5
+Shoulder Press:  One Arm,3,0,Shoulder,,3.5
+Reclined Shoulder Press,3,1,Shoulder,,3.5
+Shoulder Press:  Parallel Grip,3,1,Shoulder,,3.5
+Pike Press (between benches),4,1,Shoulder,,3.5
+Pike Press (between benches):  Elevated (between benches),5,1,Shoulder,,3.5
+Upright Row,3,1,Shoulder,,3.5
+Lateral Raise,2,0,Shoulder,,3.5
+Lateral Raise:  One Arm,2,0,Shoulder,,3.5
+Upright Row:  One Arm,3,0,Shoulder,,3.5
+Upright Row:  with rope,3,1,Shoulder,,3.5
+Y Raise,3,0,Shoulder,,3.5
+Incline Lateral Raise,3,0,Shoulder,,3.5
+Upright Row:  One Arm,3,1,Shoulder,,3.5
+Lateral Raise:  other machine,2,0,Shoulder,,3.5
+Upright Row​​​​​​​,3,1,Shoulder,,3.5
+Rear Delt Row,3,0,Shoulder,,3.5
+Reverse Fly,2,0,Shoulder,,3.5
+Rear Delt Row:  Standing Rear Delt Row (stirrups),3,0,Shoulder,,3.5
+Rear Lateral Raise,2,0,Shoulder,,3.5
+Seated Rear Lateral Raise,2,0,Shoulder,,3.5
+Lying Rear Lateral Raise,2,0,Shoulder,,3.5
+Seated Rear Delt Row,3,0,Shoulder,,3.5
+Seated Rear Delt Row:  alternative machine,3,0,Shoulder,,3.5
+Seated Reverse Fly,2,0,Shoulder,,3.5
+Seated Reverse Fly:  pronated grip,2,0,Shoulder,,3.5
+Rear Delt Inverted Row (high bar),4,0,Shoulder,,3.5
+Rear Delt Inverted Row (on hips),4,0,Shoulder,,3.5
+Front Lateral Raise,2,0,Shoulder,,3.5
+Full Can Lateral Raise,2,0,Shoulder,,3.5
+Lying Lateral Raise,2,0,Shoulder,,3.5
+Triceps Dip,4,1,Triceps,Shoulder,3.0
+Triceps Dip:  kneeling,3,1,Triceps,Shoulder,3.0
+Close Grip Bench Press,3,1,Triceps,Shoulder,3.0
+Lying Triceps Extension,3,1,Triceps,Shoulder,3.0
+Lying Triceps Extension:  Skull Crusher,3,1,Triceps,Shoulder,3.0
+Triceps Extension,2,0,Triceps,Shoulder,3.0
+Bent-over Triceps Extension,2,0,Triceps,Shoulder,3.0
+Pushdown,2,0,Triceps,Shoulder,3.0
+Pushdown:  One Arm,2,0,Triceps,Shoulder,3.0
+Pushdown:  with back support,2,0,Triceps,Shoulder,3.0
+Pushdown:  with V-bar attachment,2,0,Triceps,Shoulder,3.0
+Triceps Extension:  with rope,2,0,Triceps,Shoulder,3.0
+Kickback,2,0,Triceps,Shoulder,3.0
+Lying Triceps Extension,3,0,Triceps,Shoulder,3.0
+One Arm Triceps Extension (on bench),2,0,Triceps,Shoulder,3.0
+Triceps Dip:  alternative machine,4,1,Triceps,Shoulder,3.0
+Triceps Extension:  with preacher pad New!,3,0,Triceps,Shoulder,3.0
+Standing Triceps Dip,3,0,Triceps,Shoulder,3.0
+Bench Dip,3,1,Triceps,Shoulder,3.0
+Bench Dip:  heel on floor,2,1,Triceps,Shoulder,3.0
+Close Grip Push-up,3,1,Triceps,Shoulder,3.0
+Close Grip Push-up:  on knees,2,1,Triceps,Shoulder,3.0
+Close Grip Push-up:  Incline on bar,3,1,Triceps,Shoulder,3.0
+Curl,2,1,Biceps,,3.0
+Alternating Curl,2,0,Biceps,,3.0
+Curl:  with stirrups,2,0,Biceps,,3.0
+Curl:  One Arm Curl,2,0,Biceps,,3.0
+Incline Curl,3,0,Biceps,,3.0
+Curl,2,0,Biceps,,3.0
+Inverted Biceps Row,3,0,Biceps,,3.0
+Preacher Curl,3,0,Biceps,,3.0
+Prone Incline Curl,3,0,Biceps,,3.0
+Concentration Curl,2,0,Biceps,,3.0
+Preacher Curl: Stirrups,3,0,Biceps,,3.0
+Preacher Curl: arms high,3,0,Biceps,,3.0
+Arm Curl,2,0,Biceps,,3.0
+Reverse Curl,2,0,Forearm,Biceps,2.0
+Hammer Curl,2,0,Forearm,Biceps,2.0
+Reverse Curl​​​​​​​,2,0,Forearm,Biceps,2.0
+Wrist Curl,1,0,Forearm,Biceps,2.0
+Grip,1,0,Forearm,Biceps,2.0
+One Hand Grip,2,0,Forearm,Biceps,2.0
+One Hand​​​​​​​,2,0,Forearm,Biceps,2.0
+Reverse Wrist Curl,1,0,Forearm,Biceps,2.0
+Seated Pronation ,1,0,Forearm,Biceps,2.0
+Seated Supination,1,0,Forearm,Biceps,2.0
+Bent-over Row,3,1,Back,Biceps,5.0
+Bent-over Row:  Underhand,3,0,Back,Biceps,5.0
+One Arm Bent-over Row,3,0,Back,Biceps,5.0
+One Arm Straight Back Seated High Row,3,0,Back,Biceps,5.0
+Seated Row,2,1,Back,Biceps,5.0
+Seated Row:  Straight Back,2,1,Back,Biceps,5.0
+Seated Wide Grip Row,2,0,Back,,5.0
+Seated Wide Grip Row:  Straight Back,2,0,Back,,5.0
+Lying Row,2,1,Back,Biceps,5.0
+Incline Row,3,1,Back,Biceps,5.0
+Incline Row:  Close Grip,3,1,Back,Biceps,5.0
+Seated Rows,2,1,Back,Biceps,5.0
+Seated Rows:  Narrow Grip,2,1,Back,Biceps,5.0
+"Seated Rows:  Wide Grip
+
+Low Bar
+
+",2,1,Back,,5.0
+Seated Rows (Others),2,0,Back,Biceps,5.0
+Seated Rows (Others):  Seated Low Row,2,0,Back,Biceps,5.0
+Seated Rows (Others):  Seated High Row,2,1,Back,Biceps,5.0
+T-bar Row,3,1,Back,Biceps,5.0
+T-bar Row:  Close grip,3,1,Back,Biceps,5.0
+Seated Row:  Wide Grip,2,1,Back,,5.0
+Seated Row (no chest pad),3,1,Back,Biceps,5.0
+Seated Row (no chest pad):  Straight Back,3,1,Back,Biceps,5.0
+Underhand Seated Row,2,1,Back,Biceps,5.0
+Inverted Row,3,0,Back,Biceps,5.0
+Inverted Row:  Feet Elevated,4,0,Back,Biceps,5.0
+Inverted Row:  High Bar,3,0,Back,Biceps,5.0
+Inverted Row:  On Hips,3,0,Back,Biceps,5.0
+Inverted Row:  One Arm,4,0,Back,Biceps,5.0
+Row,2,0,Back,Biceps,5.0
+Row:  One Arm,3,0,Back,Biceps,5.0
+Pull-up (open-centered bar),4,1,Back,Biceps,5.0
+Pull-up (open-centered bar):  Standing,4,1,Back,Biceps,5.0
+Parallel Close Grip Pull-up,4,1,Back,Biceps,5.0
+Pullover,2,0,Back,,5.0
+Bent-over Pullover,3,0,Back,,5.0
+Close Grip Pulldown,2,1,Back,Biceps,5.0
+Pulldown,2,1,Back,Biceps,5.0
+Pulldown:  Parallel Grip Pulldown,2,1,Back,Biceps,5.0
+Pullup/Chinup,4,1,Back,Biceps,5.0
+Pullup/Chinup:  Chinup,4,1,Back,Biceps,5.0
+Pullup/Chinup:  Parallel Close Grip Pull-up,4,1,Back,Biceps,5.0
+Pullup/Chinup:  Parallel Grip Pull-up,4,1,Back,Biceps,5.0
+Pullup/Chinup:  Pull-up,4,1,Back,Biceps,5.0
+Underhand Pulldown,2,1,Back,Biceps,5.0
+Front Pulldown,2,1,Back,Biceps,5.0
+Chin-up,4,1,Back,Biceps,5.0
+Pull-up,4,1,Back,Biceps,5.0
+Archer Pull-up,5,1,Back,Biceps,5.0
+Pull-up:  Parallel Grip,4,1,Back,Biceps,5.0
+One Arm Pull-up New!,5,1,Back,Biceps,5.0
+Pull-up:  Self-assisted,3,1,Back,Biceps,5.0
+Shrug,1,1,Back,Neck,5.0
+Trap Bar Shrug,2,1,Back,Neck,5.0
+Shrug,1,0,Back,Neck,5.0
+Shrug with Stirrups,1,0,Back,Neck,5.0
+Seated Shrug,1,0,Back,Neck,5.0
+Gripless Shrug,1,0,Back,Neck,5.0
+Inverted Shrug,2,0,Back,Neck,5.0
+Seated Shoulder External Rotation,1,0,Back,Shoulder,5.0
+Seated Shoulder External Rotation:  Standing,1,0,Back,Shoulder,5.0
+Lying Shoulder External Rotation,1,0,Back,Shoulder,5.0
+Upright Shoulder External Rotation (with support),1,0,Back,Shoulder,5.0
+Shoulder External Rotation,1,0,Back,Shoulder,5.0
+Standing Shoulder Internal Rotation,1,0,Back,Shoulder,5.0
+Shoulder Internal Rotation,1,0,Back,Shoulder,5.0
+Shoulder Internal Rotation:  on floor,1,0,Back,Shoulder,5.0
+Shoulder Internal Rotation​​​​​​​,1,0,Back,Shoulder,5.0
+Chest Dip,3,1,Chest,Shoulder,5.0
+Chest Dip:  kneeling,2,1,Chest,Shoulder,5.0
+Bench Press,3,1,Chest,Shoulder,5.0
+Bench Press:  Power Lift,4,1,Chest,Shoulder,5.0
+Decline Bench Press,3,0,Chest,Shoulder,5.0
+Flies,2,0,Chest,Shoulder,5.0
+Flies:  Lying Fly,2,0,Chest,Shoulder,5.0
+Flies:  Seated Fly,2,0,Chest,Shoulder,5.0
+Flies:  Standing Fly,2,0,Chest,Shoulder,5.0
+Presses,3,0,Chest,Shoulder,5.0
+Presses:  Bench Press,3,0,Chest,Shoulder,5.0
+"Presses:  Chest Press
+
+Standing
+
+",3,0,Chest,Shoulder,5.0
+Presses:  Decline Chest Press,3,0,Chest,Shoulder,5.0
+Fly,2,0,Chest,Shoulder,5.0
+Pullover,2,0,Chest,Back,5.0
+Chest Press,3,1,Chest,Shoulder,5.0
+Decline Chest Press,3,0,Chest,Shoulder,5.0
+Flies:  Pec Deck Fly,2,0,Chest,Shoulder,5.0
+Presses,3,1,Chest,Shoulder,5.0
+Presses:  Bench Press,3,1,Chest,Shoulder,5.0
+"Presses:  Chest Press
+
+alternative machine
+
+",3,1,Chest,Shoulder,5.0
+Standing Chest Dip,3,0,Chest,Shoulder,5.0
+Push-up,2,0,Chest,Shoulder,5.0
+Chest Dip,3,0,Chest,Shoulder,5.0
+Push-up:  Archer,3,0,Chest,Shoulder,5.0
+Push-up:  Incline,2,0,Chest,Shoulder,5.0
+Push-up:  on knees,1,0,Chest,Shoulder,5.0
+Chest Press,3,0,Chest,Shoulder,5.0
+Clap Push-up,4,0,Chest,Shoulder,5.0
+Depth Push-up,3,0,Chest,Shoulder,5.0
+Incline Bench Press,3,0,Chest,Shoulder,5.0
+Incline Chest Press,3,0,Chest,Shoulder,5.0
+Incline Fly,2,0,Chest,Shoulder,5.0
+Incline Chest Press:  on Military Press Machine,3,0,Chest,Shoulder,5.0
+Incline Chest Press​​​​​​​,3,0,Chest,Shoulder,5.0
+Decline Push-up,3,0,Chest,Shoulder,5.0
+Decline Push-up:  on stability ball,4,0,Chest,Shoulder,5.0
+Chest Dip ,3,1,Chest,Shoulder,5.0
+Standing Fly ,2,0,Chest,Shoulder,5.0
+Incline Shoulder Raise,2,0,Chest,Shoulder,5.0
+Push-up Plus,3,0,Chest,Shoulder,5.0
+Bent Knee Good-morning,3,0,Hips,Back,2.0
+Deadlifts,5,1,Hips,Back,2.0
+"Deadlifts:  Stiff-leg Deadlift
+
+Straight-back
+
+",4,0,Hips,Back,2.0
+Hip Thrust,3,0,Hips,,2.0
+Lunge,3,0,Hips,,2.0
+Lunge:  Rear Lunge,3,0,Hips,,2.0
+Single Leg Split Squat,4,0,Hips,,2.0
+Single Leg Split Squat:  Single Leg Squat,4,0,Hips,,2.0
+Single Leg Split Squat:  Split Squat,3,0,Hips,,2.0
+Squat,4,1,Hips,,2.0
+Squat:  Front Squat,4,0,Hips,,2.0
+Squat:  Full Squat,5,1,Hips,,2.0
+Squat:  Safety Squat,4,1,Hips,,2.0
+Step-up,3,0,Hips,,2.0
+Glute Kickback,2,0,Hips,,2.0
+Rear Lunge,3,0,Hips,,2.0
+Split Squat,3,0,Hips,,2.0
+Split Squat:  Two Arms,3,0,Hips,,2.0
+Squat,4,0,Hips,,2.0
+Standing Hip Extension,2,0,Hips,,2.0
+Standing Hip Extension:  Bent-over,2,0,Hips,,2.0
+Stiff-leg Deadlift,4,0,Hips,Back,2.0
+Stiff-leg Deadlift:  Straight-back,4,0,Hips,Back,2.0
+Step-up:  Step Down,3,0,Hips,,2.0
+Deadlift,5,1,Hips,Back,2.0
+"Deadlift:  Stiff-leg Deadlift
+
+Straight-back
+
+",4,0,Hips,Back,2.0
+Leg Presses,3,1,Hips,,2.0
+Leg Presses:  45° Leg Press,3,1,Hips,,2.0
+Leg Presses:  Lying Leg Press,3,1,Hips,,2.0
+Leg Presses:  Seated Leg Press,3,1,Hips,,2.0
+Lying Hip Extension,2,0,Hips,,2.0
+Reverse Hyper-extension,3,0,Hips,Back,2.0
+Squat:  Front Squat,4,1,Hips,,2.0
+Hip Extensions,2,0,Hips,,2.0
+Hip Extensions:  Bent-over,2,0,Hips,,2.0
+Hip Extensions:  Lying,2,0,Hips,,2.0
+"Hip Extensions:  Standing
+
+alternative machine
+
+",2,0,Hips,,2.0
+Glute Kickback:  Bent-over,2,0,Hips,,2.0
+Glute Kickback:  Kneeling,2,0,Hips,,2.0
+Glute Kickback:  Standing,2,0,Hips,,2.0
+Squat:  V-Squat,4,0,Hips,,2.0
+Squat:  Hack Squat,4,0,Hips,,2.0
+Single Leg Squat,4,0,Hips,,2.0
+Split Squat:  Single Leg Split Squat,4,0,Hips,,2.0
+Single Leg Stiff Leg Deadlift,4,0,Hips,Back,2.0
+Single Leg Squat (leg wrapped),4,0,Hips,,2.0
+Step Down,3,0,Hips,,2.0
+Hip Bridge,2,0,Hips,,2.0
+Hip Abduction,2,0,Hips,,2.0
+Seated Hip Internal Rotation,1,0,Hips,,2.0
+Lying Hip Abduction,2,0,Hips,,2.0
+Seated Hip Abduction,2,0,Hips,,2.0
+Standing Hip Abduction,2,0,Hips,,2.0
+Twist,2,0,Hips,,2.0
+Side Bend,2,0,Hips,,2.0
+Assisted Wheel Rollout,3,0,Hips,Shoulder,2.0
+Lying Leg Raise,2,0,Hips,,2.0
+Lying Leg Raise:  on bench,2,0,Hips,,2.0
+Lying Leg Raise:  Straight Leg,3,0,Hips,,2.0
+Standing Leg Raise,2,0,Hips,,2.0
+Standing Leg Raise:  Straight Leg,3,0,Hips,,2.0
+Hip Flexion,2,0,Hips,,2.0
+Vertical Leg Raise,4,0,Hips,,2.0
+Decline Sit-up,3,0,Hips,,2.0
+Hanging Leg Raise,4,0,Hips,,2.0
+Hanging Leg Raise:  Straight Leg,5,0,Hips,,2.0
+Incline Leg Raise,3,0,Hips,,2.0
+Incline Leg Raise:  arms on pads,3,0,Hips,,2.0
+Incline Straight Leg Raise,4,0,Hips,,2.0
+Incline Straight Leg Raise:  arms on pads,4,0,Hips,,2.0
+Roman Chair Sit-up,3,0,Hips,,2.0
+Seated Leg Raise,2,0,Hips,,2.0
+Vertical Leg Raise:  on Parallel Bars,4,0,Hips,,2.0
+Vertical Leg Raise:  Straight Leg,5,0,Hips,,2.0
+Leg Raises,3,0,Hips,,2.0
+"Leg Raises:  Hanging Leg Raise
+
+with ab straps
+Straight Leg
+
+",5,0,Hips,,2.0
+"Leg Raises:  Incline Leg Raise
+
+arms on pads
+
+",3,0,Hips,,2.0
+"Leg Raises:  Incline Straight Leg Raise
+
+arms on pads
+
+",4,0,Hips,,2.0
+"Leg Raises:  Lying Leg Raise
+
+Alternating
+on floor
+
+",2,0,Hips,,2.0
+"Leg Raises:  Lying Straight Leg Raise
+
+Alternating
+
+",3,0,Hips,,2.0
+Leg Raises:  Seated Leg Raise,2,0,Hips,,2.0
+"Leg Raises:  Vertical Leg Raise
+
+on parallel bars
+Straight Leg
+
+",5,0,Hips,,2.0
+Jack-knife on Ball,3,0,Hips,,2.0
+Scissor Kick,3,0,Hips,,2.0
+Wheel,3,0,Hips,Shoulder,2.0
+Wheel:  Jack-Knife,4,0,Hips,,2.0
+Wheel:  Rollout,4,0,Hips,Shoulder,2.0
+Wheel:  Pike,4,0,Hips,,2.0
+Discs,3,0,Hips,,2.0
+Discs:  Pike,4,0,Hips,,2.0
+Mountain Climber,3,0,Hips,,2.0
+Pike,3,0,Hips,,2.0
+Lunge,3,0,Thighs,Hips,5.0
+Lunge:  Rear Lunge,3,0,Thighs,Hips,5.0
+Single Leg Split Squat,4,0,Thighs,Hips,5.0
+Single Leg Split Squat:  Side Split Squat,4,0,Thighs,,5.0
+Single Leg Split Squat:  Single Leg Squat,5,0,Thighs,Hips,5.0
+Squat,3,1,Thighs,Hips,5.0
+Squat:  Front Squat,4,0,Thighs,Hips,5.0
+Squat:  Trap Bar Squat,3,0,Thighs,Hips,5.0
+Step-up,3,0,Thighs,Hips,5.0
+Rear Lunge,3,0,Thighs,Hips,5.0
+Split Squat,3,0,Thighs,Hips,5.0
+Squat,3,0,Thighs,Hips,5.0
+Step Down,3,0,Thighs,Hips,5.0
+Step-up:  Step Down,3,0,Thighs,Hips,5.0
+Leg Presses,3,1,Thighs,Hips,5.0
+Leg Presses:  45° Leg Press,3,1,Thighs,Hips,5.0
+Leg Presses:  Lying Leg Press,3,1,Thighs,Hips,5.0
+Leg Presses:  Seated Leg Press,3,1,Thighs,Hips,5.0
+Single Leg Squat (plate loaded),4,0,Thighs,Hips,5.0
+Squat:  Barbell Machine,3,1,Thighs,Hips,5.0
+Leg Extension,2,0,Thighs,,5.0
+V-Squat,3,0,Thighs,Hips,5.0
+Squat:  Hack Squat,3,0,Thighs,Hips,5.0
+Single Leg Squat,5,0,Thighs,Hips,5.0
+Single Leg Squat:  Box,4,0,Thighs,Hips,5.0
+Split Squat:  Single Leg Split Squat,4,0,Thighs,Hips,5.0
+Step-up:  Step-down,3,0,Thighs,Hips,5.0
+Single Leg Squat (leg wrapped),4,0,Thighs,Hips,5.0
+Glute-Ham Raise,4,0,Thighs,Hips,5.0
+Good-morning,3,0,Thighs,Back,5.0
+Hyperextension,2,0,Thighs,Back,5.0
+Hyperextension (45°),2,0,Thighs,Back,5.0
+Straight-leg Deadlift,3,1,Thighs,Back,5.0
+Straight-leg Deadlift:  Straight-back,3,0,Thighs,Back,5.0
+Lying Leg Curl,2,1,Thighs,,5.0
+Standing Leg Curl,2,0,Thighs,,5.0
+Straight-back Straight-leg Deadlift,3,0,Thighs,Back,5.0
+Kneeling Leg Curl,2,1,Thighs,,5.0
+Seated Leg Curl,2,1,Thighs,,5.0
+Bent-over Leg Curl,2,1,Thighs,,5.0
+Hamstring Raise,3,0,Thighs,Hips,5.0
+Glute-Ham Raise:  hands behind hips,4,0,Thighs,Hips,5.0
+Single Leg Hanging Hamstring Bridge,4,0,Thighs,Hips,5.0
+Single Leg 45° Hyperextension,3,0,Thighs,Back,5.0
+Straight Hip Leg Curl (on ball),3,0,Thighs,,5.0
+Inverse Leg Curl,3,1,Thighs,,5.0
+Leg Curl,2,0,Thighs,,5.0
+Hanging Leg Curl,3,0,Thighs,,5.0
+Straight Hip Leg Curl,3,0,Thighs,,5.0
+Hip Adduction,2,0,Thighs,,5.0
+Seated Hip Adduction,2,0,Thighs,,5.0
+Standing Hip Adduction,2,0,Thighs,,5.0
+Lying Hip Adduction,2,0,Thighs,,5.0
+Standing Calf Raise,2,1,Calves,,1.5
+Standing Calf Raise:  One Arm Single Leg Calf Raise,3,0,Calves,,1.5
+Standing Calf Raise:  Single Leg,3,0,Calves,,1.5
+45° Calf Press,3,1,Calves,,1.5
+Calf Extension,2,1,Calves,,1.5
+Seated Calf Press,2,1,Calves,,1.5
+45° Calf Raise,3,1,Calves,,1.5
+Donkey Calf Raise,3,1,Calves,,1.5
+Lying Calf Press,2,1,Calves,,1.5
+Single Leg Calf Raise,3,0,Calves,,1.5
+Forward Angled Single Leg Calf Raise,3,0,Calves,,1.5
+Safety Barbell Seated Calf Raise,2,0,Calves,,1.5
+Seated Calf Raise,2,0,Calves,,1.5
+Safety Bar Reverse Calf Raise,3,0,Calves,,1.5
+Reverse Calf Raise,2,0,Calves,,1.5
+Reverse Calf Raise:  Single Leg,3,0,Calves,,1.5
+45° Reverse Calf Press,3,0,Calves,,1.5
+45° Reverse Calf Raise,3,0,Calves,,1.5
+Reverse Calf Extension,2,0,Calves,,1.5
+45° Reverse Calf Raise (plate loaded),3,0,Calves,,1.5
+45° Reverse Calf Raise (on hack press),3,0,Calves,,1.5
+Hack Reverse Calf Raise,3,0,Calves,,1.5
+Lying Reverse Calf Press,2,0,Calves,,1.5
+Seated Reverse Calf Press,2,0,Calves,,1.5
